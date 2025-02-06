@@ -39,11 +39,6 @@ Make sure you have the following installed:
    git clone https://github.com/your-username/react-assignment-project.git
    ```
 
-Sure! Here’s the complete README.md file that you can use for your GitHub project:
-
-markdown
-Copy
-
 # React Assignment Project
 
 This project is a React application that demonstrates user data management, chart visualization, rich text editing, and a dark/light mode toggle. It is built using React, React Router, and Recharts for the charting component.
