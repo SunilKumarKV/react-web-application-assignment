@@ -15,9 +15,9 @@ This is a React-based web application that includes features such as a counter, 
 
 ## Technologies Used
 
-- React (Functional Components and Hooks)
-- React Router
-- Recharts (for charts)
+- React (Functional Components and Hooks).
+- React Router.
+- Recharts (for charts).
 - React Quill (for rich text editor)
 - LocalStorage for persistent data
 - CSS for styling and dark/light mode toggling
